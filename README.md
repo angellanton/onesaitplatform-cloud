@@ -49,7 +49,7 @@ Having trouble with onesait Platform? We’d like to help!
 
 At the link you can find our [2018-2019 Roadmap](https://onesaitplatform.atlassian.net/wiki/spaces/OP/pages/32979/Roadmap+onesait+Platform+Cloud)
 
-As we are working on a open source model, you can contribute with us. To contribute to onesait Platform, please visit [How to contribute](https://onesaitplatform.atlassian.net/wiki/spaces/OP/pages/9142309/Contribution+Guide) information.
+As we are working on a Open Source model, you can contribute with us. To contribute to onesait Platform, please visit [How to contribute](https://onesaitplatform.atlassian.net/wiki/spaces/OP/pages/9142309/Contribution+Guide) information.
 
 
 ## License
